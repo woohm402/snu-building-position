@@ -5,5 +5,13 @@
   "repository": "https://github.com/woohm402/snu-building-position",
   "author": "woohm402 <woohm404@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4",
+    "ts-node": "10.9.2",
+    "typescript": "5.3.3"
+  }
 }
