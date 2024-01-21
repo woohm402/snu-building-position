@@ -1,0 +1,9 @@
+{
+  "name": "snu-building-position",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/woohm402/snu-building-position",
+  "author": "woohm402 <woohm404@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
